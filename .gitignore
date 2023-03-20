@@ -1,0 +1,8 @@
+
+*.pyc
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/AutomationNeonomics.iml
+.idea/inspectionProfiles/profiles_settings.xml
